@@ -114,3 +114,39 @@ nav ul li {
   z-index: 1;
 
 }
+
+/****************About me***************/
+
+.photo-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.profile-img {
+
+  width: 16rem;
+  border-radius: 50%;
+  padding: 0.3rem;
+  border: 1px solid var(--primary-orange);
+}
+
+.about-heading {
+  color: var(--primary-orange);
+  text-transform: uppercase;
+}
+
+.about-para{
+  text-align: justify;
+}
+
+
+@media(max-width : 468px)
+{
+  .profile-img{
+    width: 10rem ;
+  }
+
+  
+
+}
