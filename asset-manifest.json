@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactWebsite/static/css/main.566dc885.css",
+    "main.js": "/ReactWebsite/static/js/main.f1c844be.js",
+    "static/js/787.071eb048.chunk.js": "/ReactWebsite/static/js/787.071eb048.chunk.js",
+    "static/media/background-laptop-modified.jpg": "/ReactWebsite/static/media/background-laptop-modified.d5aed74120bbbabdce0e.jpg",
+    "static/media/profile-pic-2.jpeg": "/ReactWebsite/static/media/profile-pic-2.33dc49f2069c77aecc41.jpeg",
+    "static/media/avatar-1.png": "/ReactWebsite/static/media/avatar-1.9277ecea7570a7cb523d.png",
+    "index.html": "/ReactWebsite/index.html",
+    "main.566dc885.css.map": "/ReactWebsite/static/css/main.566dc885.css.map",
+    "main.f1c844be.js.map": "/ReactWebsite/static/js/main.f1c844be.js.map",
+    "787.071eb048.chunk.js.map": "/ReactWebsite/static/js/787.071eb048.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566dc885.css",
+    "static/js/main.f1c844be.js"
+  ]
+}
