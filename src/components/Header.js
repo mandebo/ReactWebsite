@@ -3,10 +3,12 @@ import Typed from "react-typed";
 
 
 const Header = () => {
+
+  const tulisan = "< Hello, I'm Aiman />";
   return (
     <div className='header-wrapper'> 
       <div className='main-info'>
-            <h1> Web development is fun!</h1>
+            <h1> {tulisan}</h1>
             <Typed
 
                 className="typed-text"
