@@ -7,6 +7,7 @@ import About from './components/Aboutme';
 import Services from './components/Services';
 
 import { useCallback } from 'react';
+import Quotes from './components/Quotes';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Header/>
         <About/>
         <Services/>
+        <Quotes/>
     </div>
   );
 }

@@ -1,5 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
 
 :root {
   --primary-white: #fff;
@@ -11,6 +13,7 @@
 }
 
 body {
+  font-family: 'Yellowtail', cursive;
 
   /* font-family: "Roboto Condensed" sans-serif; */
 }
@@ -261,8 +264,37 @@ nav ul li {
 
 
 
+
 /*****************ANIMATION******************/
 
 .animation {
   
+}
+
+/************QUOTES***************/
+
+.quotes-main {
+  height: 200px;
+  background-color: var(--primary-orange);
+}
+
+.quotes-cursive{
+  font-family: 'Yellowtail', cursive;
+  text-align: center;
+  color: white;
+  
+}
+
+.quotes-box {
+  background-color: #9933FF;
+  height: 80px;
+  padding: 20px;
+  
+}
+
+.quotes-text
+{
+  
+  text-align: center;
+  color: white;
 }

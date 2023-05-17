@@ -17,7 +17,7 @@ const Aboutme = () => {
             <div className='col-lg-6 col-xm-12'>
 
                 <div className='photo-wrap mb-5'>
-                      <img className='profile-img' src={profile} alt='author....'/>
+                      {/* <img className='profile-img' src={profile} alt='author....'/> */}
                 </div>
                
               
